@@ -21,4 +21,6 @@
 
 #  just click for follow me : 
 
-![img] (https://cdn.rawgit.com/sindresorhus/telegram.com/svg)
+![img] (https://cdn.rawgit.com/sindresorhus/telegram/100491006-8a658680-3131-11eb-8ea6-ad8aceed17ab.jpg)
+
+/svg)(https://t.me/iiwiw)
