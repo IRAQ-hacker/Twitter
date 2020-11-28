@@ -21,4 +21,4 @@
 
 #  just click for follow me : 
 
-<img str="https://img.shields.io/github/stars/iraq-hacker"> 
+ [![Telegram](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://t.me/Professional_school)
