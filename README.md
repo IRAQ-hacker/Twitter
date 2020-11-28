@@ -22,3 +22,7 @@
 #  just click for follow me : 
 
  [![Telegram](https://cdn.rawgit.com/sindresorhus/telegram/media/badge.svg)](https://t.me/Professional_school)
+
+
+![telegram](https://user-images.githubusercontent.com/70316694/100491006-8a658680-3131-11eb-8ea6-ad8aceed17ab.jpg)
+
