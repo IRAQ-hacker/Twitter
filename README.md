@@ -21,4 +21,4 @@
 
 #  just click for follow me : 
 
-[](https://t.me/iiwiw<https://img.shields.io/badge/account%20-%20telegram-yellowred>)
+[image](https://t.me/iiwiw)[image](https://img.shields.io/badge/account%20-%20telegram-yellowred)
