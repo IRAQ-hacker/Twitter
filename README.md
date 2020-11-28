@@ -21,4 +21,4 @@
 
 #  just click for follow me : 
 
- [![Telegram](https://cdn.rawgit.com/sindresorhus/telegram.com/media/badge.svg)](https://t.me/Professional_school)
+ [![Telegram](https://cdn.rawgit.com/sindresorhus/telegram.com/badge.svg)](https://t.me/Professional_school)
