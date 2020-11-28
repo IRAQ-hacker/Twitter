@@ -21,4 +21,6 @@
 https://cdn.rawgit.com/sindresorhus/telegram.com/svg
 #  just click for follow me : 
 
- <p><a href="https://t.me/iiwiw"><img src="https://img.shields.io/badge/XAttacker-2.5-brightgreen.svg"
+ <p><a href="https://t.me/iiwiw"><img src="https://img.shields.io/endpoint?url=<![telegram](https://user-images.githubusercontent.com/70316694/100491006-8a658680-3131-11eb-8ea6-ad8aceed17ab.jpg)
+
+>&style<STYLE>"
