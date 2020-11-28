@@ -2,8 +2,9 @@
   
   - this tool for hacker password Twitter
   
-  [![HHH](https://img.shields.io/badge/Use it to do something good-,not bad-yellowred)](https://github.com/IRAQ-hacker/Twitter)
   
+
+
 # For using :
  ````
  pkg install python
