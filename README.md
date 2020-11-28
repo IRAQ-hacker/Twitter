@@ -17,7 +17,7 @@
  pip install proxylist
  pip install bs4
  cd Twitter
- python team3x.py
+ python Team3x.cpython-39.pyc
  ````
  
 ![images](https://user-images.githubusercontent.com/70316694/100490766-0a3e2180-312f-11eb-8026-2eb584ba452d.png)
