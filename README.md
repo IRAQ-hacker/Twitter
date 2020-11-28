@@ -18,7 +18,7 @@
  ````
  
 ![images](https://user-images.githubusercontent.com/70316694/100490766-0a3e2180-312f-11eb-8026-2eb584ba452d.png)
-https://cdn.rawgit.com/sindresorhus/telegram.com/svg
+
 #  just click for follow me : 
 
- <p><a href="https://t.me/iiwiw"><img src="https://img.shields.io/100491006-8a658680-3131-11eb-8ea6-ad8aceed17ab.jpg)
+![img] (https://cdn.rawgit.com/sindresorhus/telegram.com/svg)
