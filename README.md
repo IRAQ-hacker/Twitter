@@ -21,4 +21,4 @@
 
 #  just click for follow me : 
 
-![images](https://img.shields.io/badge/account%20-%20telegram-yellowred/)
+![™](https://img.shields.io/badge/dynamic/json?url=<https://t.me/iiwiw>&label=<account>&query=<$.DATA.SUBDATA>&color=<green>&prefix=<PREFIX>&suffix=<SUFFIX>)
